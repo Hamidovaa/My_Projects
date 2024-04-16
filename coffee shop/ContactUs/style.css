@@ -1,0 +1,483 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+li{
+    color: white !important;
+}
+.top{
+    display: flex;
+    list-style: none;
+}
+.top li{
+    padding: 5px;
+    color: white;
+}
+.top a{
+    color:white;
+    text-decoration: none;
+}
+#message-box-conact{
+    padding:8px 0 8px 0;
+    color: white;
+}
+.page-subheading{
+    padding-bottom: 17px;
+    color: white;
+}
+.italic{
+    margin: 0;
+    text-align: center;
+}
+.italic li{
+    font-style: italic;
+    color: white;
+}
+.italic li i{
+    padding-right: 8px;
+    font-size: 8px;
+}
+
+.store_info{
+    list-style: none;
+    padding: 0px;
+    text-align: center;
+}
+.store_info li{
+    color: white;
+}
+.store_info i{
+    padding-right: 10px;
+    color: white;
+}
+.store_info a{
+    text-decoration: none;
+    color: white;
+}
+#contact_form_map p{
+    margin: 0;
+    color: white;
+    margin: auto;
+}
+.contact-form-box input{
+    margin: 15px 0;
+    border-radius: 30px;
+    background-color: #212121;
+    border-color: rgb(192, 192, 192) ;
+    opacity: 0.8;
+}
+.contact-form-box label{
+    color: white;
+}
+.contact-form-box textarea{
+    border-radius: 10px;
+    background-color: #212121;
+    border-color: rgb(192, 192, 192) ;
+    margin-bottom: 20px;
+    opacity: 0.8;
+}
+.form-selector button{
+    border: none;
+    background-color: #341A08;
+    padding: 5px 10px;
+    border: 1px solid;
+    border-radius: 15px;
+    border-color: rgb(192, 192, 192) ;
+}
+.form-selector button span{
+    color: white;
+    font-weight: 600;
+}
+.form-selector button i{
+    color: white;
+}
+.form-selector a{
+    text-decoration: none;
+    color: white;
+}
+.contact_us_page{
+    padding-top: 80px;
+    margin: auto;
+    padding-bottom: 20px;
+    background-size: cover;
+}
+.page-title h2{
+    text-align: center;
+    color: white;
+}
+#message-box-conact{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.map{
+    padding-top: 20px;
+}
+
+#contact_form_map{
+    background-color: #212121;
+    opacity: 0.8;
+    padding:20px 0px 0 0px;
+    text-align: center;
+}
+.breadcrumbs{
+    padding-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1024px) {
+    header {
+      background-color: #fff;
+    }
+    header .nav-links {
+      display: none !important;
+    }
+    header .logo {
+      display: none;
+    }
+    header .dark-logo {
+      display: block !important;
+    }
+    header .nav-bar {
+      display: block !important;
+    }
+  }
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  body {
+    overflow-x: hidden;
+  }
+  
+  header {
+    overflow: hidden;
+  }
+  header .next .fixed-item {
+    position: relative;
+  }
+  header .next .fixed-item .left {
+    position: absolute;
+    left: 0;
+    z-index: 100;
+    padding-top: 50%;
+  }
+  header .next .fixed-item .left i {
+    color: #fff;
+    font-size: 30px;
+  }
+  header .next .fixed-item .right {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    z-index: 101;
+    padding-top: 50%;
+  }
+  header .next .fixed-item .right i {
+    color: #fff;
+    font-size: 30px;
+  }
+  header .navigation-menu {
+    position: fixed;
+    background-color: #131212;
+    padding: 15px 20px;
+    top: 0;
+    right: 0;
+    width: 100%;
+    z-index: 1;
+  }
+  header .navigation-menu .nav-links ul li i {
+    color: #fff;
+  }
+  header .navigation-menu .nav-links .home li {
+    position: relative;
+  }
+  header .navigation-menu .nav-links .home li:hover .mocha {
+    opacity: 1;
+    visibility: visible;
+    max-height: 20em;
+  }
+  header .navigation-menu .nav-links .home li:hover .about {
+    opacity: 1;
+    visibility: visible;
+    max-height: 280px;
+  }
+  header .navigation-menu .nav-links .home li:hover .standard {
+    opacity: 1;
+    visibility: visible;
+    max-height: 200px;
+  }
+  header .navigation-menu .nav-links .home li:hover .sidebar {
+    opacity: 1;
+    visibility: visible;
+    max-height: 155px;
+  }
+  header .navigation-menu .nav-links .home li:hover .product {
+    opacity: 1;
+    visibility: visible;
+    max-height: 160px;
+  }
+  header .navigation-menu .nav-links .home li:hover .classic {
+    opacity: 1;
+    visibility: visible;
+    max-height: 360px;
+  }
+  header .navigation-menu .nav-links .home li:hover .ele {
+    opacity: 1;
+    visibility: visible;
+    max-height: 360px;
+  }
+  header .navigation-menu .nav-links .home li .mocha {
+    position: absolute;
+    top: 200%;
+    left: 0;
+    width: 200px;
+    height: 160px;
+    background-color: #262626;
+    z-index: 5;
+    opacity: 0;
+    visibility: hidden;
+    line-height: 39px;
+    transition: 0.6s linear;
+    max-height: 0;
+  }
+  header .navigation-menu .nav-links .home li .about {
+    position: absolute;
+    top: 200%;
+    left: 0;
+    width: 200px;
+    height: 280px;
+    background-color: #262626;
+    z-index: 5;
+    opacity: 0;
+    visibility: hidden;
+    line-height: 39px;
+    transition: 0.6s linear;
+    max-height: 0;
+  }
+  header .navigation-menu .nav-links .home li .standard {
+    position: absolute;
+    top: 200%;
+    left: 0;
+    width: 200px;
+    height: 200px;
+    background-color: #262626;
+    z-index: 5;
+    opacity: 0;
+    visibility: hidden;
+    line-height: 39px;
+    transition: 0.6s linear;
+    max-height: 0;
+  }
+  header .navigation-menu .nav-links .home li .standard .three:hover .layouts {
+    opacity: 1;
+    visibility: visible;
+    max-height: 280px;
+  }
+  header .navigation-menu .nav-links .home li .standard .three .layouts {
+    position: absolute;
+    top: 100%;
+    left: 92%;
+    width: 200px;
+    height: 230px;
+    background-color: #262626;
+    z-index: 10;
+    opacity: 0;
+    line-height: 39px;
+    transition: 0.6s linear;
+    visibility: hidden;
+    max-height: 0;
+  }
+  header .navigation-menu .nav-links .home li .standard .five:hover .single {
+    opacity: 1;
+    visibility: visible;
+    max-height: 280px;
+  }
+  header .navigation-menu .nav-links .home li .standard .five .single {
+    position: absolute;
+    top: 100%;
+    left: 92%;
+    width: 200px;
+    height: 230px;
+    background-color: #262626;
+    z-index: 10;
+    opacity: 0;
+    line-height: 39px;
+    transition: 0.6s linear;
+    visibility: hidden;
+    max-height: 0;
+  }
+  header .navigation-menu .nav-links .home li .standard li:hover {
+    opacity: 1;
+    visibility: visible;
+    max-height: 200px;
+  }
+  header .navigation-menu .nav-links .home li .sidebar {
+    position: absolute;
+    top: 200%;
+    left: 0;
+    width: 200px;
+    height: 155px;
+    background-color: #262626;
+    z-index: 5;
+    opacity: 0;
+    visibility: hidden;
+    line-height: 39px;
+    transition: 0.6s linear;
+    max-height: 0;
+  }
+  header .navigation-menu .nav-links .home li .sidebar .side:hover .post {
+    opacity: 1;
+    visibility: visible;
+    max-height: 240px;
+  }
+  header .navigation-menu .nav-links .home li .sidebar .side .post {
+    position: absolute;
+    top: 90%;
+    left: 94%;
+    width: 200px;
+    height: 240px;
+    background-color: #262626;
+    z-index: 5;
+    opacity: 0;
+    visibility: hidden;
+    line-height: 39px;
+    transition: 0.6s linear;
+    max-height: 0;
+  }
+  header .navigation-menu .nav-links .home li .product {
+    position: absolute;
+    top: 200%;
+    left: 0;
+    width: 200px;
+    height: 160px;
+    background-color: #262626;
+    z-index: 5;
+    opacity: 0;
+    visibility: hidden;
+    line-height: 39px;
+    transition: 0.6s linear;
+    max-height: 0;
+  }
+  header .navigation-menu .nav-links .home li .product li {
+    text-align: end;
+  }
+  header .navigation-menu .nav-links .home li .product .sho:hover .sholay {
+    opacity: 1;
+    visibility: visible;
+    max-height: 120px;
+  }
+  header .navigation-menu .nav-links .home li .product .sholay {
+    position: absolute;
+    top: 90%;
+    left: -100%;
+    width: 200px;
+    height: 120px;
+    background-color: #262626;
+    z-index: 5;
+    opacity: 0;
+    visibility: hidden;
+    line-height: 39px;
+    transition: 0.6s linear;
+    max-height: 0;
+  }
+  header .navigation-menu .nav-links .home li .product .sholay li {
+    text-align: end;
+  }
+  header .navigation-menu .nav-links .home li .product .checkout:hover .cart {
+    opacity: 1;
+    visibility: visible;
+    max-height: 120px;
+  }
+  header .navigation-menu .nav-links .home li .product .cart {
+    position: absolute;
+    top: 90%;
+    left: -100%;
+    width: 200px;
+    height: 120px;
+    background-color: #262626;
+    z-index: 5;
+    opacity: 0;
+    visibility: hidden;
+    line-height: 39px;
+    transition: 0.6s linear;
+    max-height: 0;
+  }
+  header .navigation-menu .nav-links .home li .product .cart li {
+    text-align: end;
+  }
+  header .navigation-menu .nav-links .home li .ele {
+    position: absolute;
+    top: 200%;
+    right: -170%;
+    width: 100vw;
+    background-color: #262626;
+    z-index: 5;
+    opacity: 0;
+    visibility: hidden;
+    line-height: 39px;
+    transition: 0.6s linear;
+    text-align: center;
+    padding: 10px 100px;
+    max-height: 20em;
+  }
+  header .navigation-menu .nav-links .home li .ele .presentation {
+    border-left: #656565 1px solid;
+    text-align: left;
+  }
+  header .navigation-menu .nav-links .home .line::after {
+    position: absolute;
+    top: 100%;
+    left: 10%;
+    content: "";
+    width: 80%;
+    height: 3px;
+    background-color: #fff;
+  }
+  header .navigation-menu .nav-links .home a {
+    text-transform: uppercase;
+    color: #fff;
+  }
+  header .navigation-menu .nav-links .home a:hover::after {
+    width: 80%;
+  }
+  header .navigation-menu .nav-links .home a::after {
+    position: absolute;
+    top: 100%;
+    left: 10%;
+    content: "";
+    width: 0%;
+    height: 3px;
+    background-color: #fff;
+    transition: 0.5s linear;
+  }
+  header .nav-bar {
+    display: none;
+  }
+  header .logo {
+    width: 140px;
+  }
+  header .dark-logo {
+    width: 140px;
+    display: none;
+  }
+  header .nav-links ul li {
+    padding: 0 15px;
+  }
+  a{
+    text-decoration: none !important;
+  }
