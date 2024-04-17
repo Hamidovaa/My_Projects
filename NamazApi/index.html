@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <style>
+
+        .borderr{
+            border: 10px solid transparent;
+            padding: 15px;
+            border-image: url(./border.png) 30% round;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row pt-3">
+            <div class="col-md-3 pb-4">
+                <select id="city" class="form-control">
+                    <option value="79">Abşeron</option>
+                    <option value="4">Ağcabədi</option>
+                    <option value="2">Ağdam</option>
+                    <option value="3">Ağdaş</option>
+                    <option value="5">Ağstafa</option>
+                    <option value="67">Ağsu</option>
+                    <option value="6">Astara</option>
+                    <option value="7">Babək</option>
+                    <option value="1" selected="">Bakı</option>
+                    <option value="8">Balakən</option>
+                    <option value="10">Beyləqan</option>
+                    <option value="11">Bərdə</option>
+                    <option value="9">Biləsuvar</option>
+                    <option value="13">Cəbrayıl</option>
+                    <option value="12">Cəlilabad</option>
+                    <option value="14">Culfa</option>
+                    <option value="15">Daşkəsən</option>
+                    <option value="18">Füzuli</option>
+                    <option value="21">Gədəbəy</option>
+                    <option value="20">Gəncə</option>
+                    <option value="22">Goranboy</option>
+                    <option value="19">Göyçay</option>
+                    <option value="25">Göygöl</option>
+                    <option value="24">Hacıqabul</option>
+                    <option value="28">İmişli</option>
+                    <option value="27">İsmayıllı</option>
+                    <option value="29">Kəlbəcər</option>
+                    <option value="68">Kəngərli</option>
+                    <option value="30">Kürdəmir</option>
+                    <option value="37">Laçın</option>
+                    <option value="39">Lerik</option>
+                    <option value="38">Lənkəran</option>
+                    <option value="40">Masalli</option>
+                    <option value="42">Mingəçevir</option>
+                    <option value="73">Naftalan</option>
+                    <option value="44">Naxçıvan</option>
+                    <option value="45">Neftçala</option>
+                    <option value="46">Oğuz</option>
+                    <option value="47">Ordubad</option>
+                    <option value="31">Qax</option>
+                    <option value="32">Qazax</option>
+                    <option value="33">Qəbələ</option>
+                    <option value="77">Qobustan</option>
+                    <option value="34">Quba</option>
+                    <option value="36">Qubadlı</option>
+                    <option value="35">Qusar</option>
+                    <option value="48">Saatlı</option>
+                    <option value="49">Sabirabad</option>
+                    <option value="50">Salyan</option>
+                    <option value="74">Samux</option>
+                    <option value="75">Sədərək</option>
+                    <option value="51">Siyəzən</option>
+                    <option value="52">Sumqayıt</option>
+                    <option value="16">Şabran</option>
+                    <option value="54">Şahbuz</option>
+                    <option value="53">Şamaxı</option>
+                    <option value="55">Şəki</option>
+                    <option value="56">Şəmkir</option>
+                    <option value="57">Şərur</option>
+                    <option value="17">Şirvan</option>
+                    <option value="58">Şuşa</option>
+                    <option value="59">Tərtər</option>
+                    <option value="60">Tovuz</option>
+                    <option value="63">Ucar</option>
+                    <option value="26">Xaçmaz</option>
+                    <option value="80">Xankəndi</option>
+                    <option value="76">Xızı</option>
+                    <option value="81">Xocalı</option>
+                    <option value="82">Xocəvənd</option>
+                    <option value="61">Yardımlı</option>
+                    <option value="62">Yevlax</option>
+                    <option value="64">Zaqatala</option>
+                    <option value="65">Zəngilan</option>
+                    <option value="66">Zərdab</option>
+                </select>
+            </div>
+            <div class="col-md-3 pb-4">
+                <select id="year" class="form-control">
+                    <option value="2024">2024</option>
+                    <option value="2023">2023</option>
+                    <option value="2022">2022</option>
+                </select>
+            </div>
+            <div class="col-md-3 pb-4">
+                <select id="month" class="form-control">
+                    <option value="1">Yanvar</option>
+                    <option value="2">Fevral</option>
+                    <option value="3">Mart</option>
+                    <option value="4" selected="">Aprel</option>
+                    <option value="5">May</option>
+                    <option value="6">İyun</option>
+                    <option value="7">İyul</option>
+                    <option value="8">Avqust</option>
+                    <option value="9">Sentyabr</option>
+                    <option value="10">Oktyabr</option>
+                    <option value="11">Noyabr</option>
+                    <option value="12">Dekabr</option>
+                </select>
+            </div>
+            <div class="col-md-3 pb-4">
+                <button id="btnShow" class="btn btn-danger btn-block w-100">Göstər</button>
+            </div>
+            <div class="col-md-12 borderr pt-2">
+                <table class="table">
+                    <thead>
+                      <tr>
+                        <th scope="col">Ayın<br>günləri</th>
+                        <th scope="col">Hicri ayın <br> Günləri </th>
+                        <th scope="col">İmsak <br>Vaxtı</th>
+                        <th scope="col">Sübh<br> azanı</th>
+                        <th scope="col">Gün <br>çıxır</th>
+                        <th scope="col">Zöhr<br> azanı</th>
+                        <th scope="col">Əsr<br> azanı</th>
+                        <th scope="col">Gün<br> batır</th>
+                        <th scope="col">Məğrib<br> azanı</th>
+                        <th scope="col">İşa<br> azanı</th>
+                        <th scope="col">Gecə<br> yarısı</th>
+                      </tr>
+                    </thead>
+                    <tbody id="calendar">
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    
+    <script src="main.js"></script>
+</body>
+</html>
