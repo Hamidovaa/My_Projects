@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.scss">
+
+    <style>
+        body{
+            background-color: white;
+            color: black;
+        }
+        body.dark-mode {
+        background-color: black;
+        color: white;
+        }
+        #cardField img{
+            height: 200px;
+            object-fit: contain;
+        }
+        #cardField .card{
+            height: 500px;
+        }
+        #cardField .btn-primary{
+            position: absolute;
+            bottom: 5% !important;
+            left: 50%;
+            transform: translate(-50%, 0);
+        }
+        #modeButton{
+            margin: 10px;
+            padding: 15px 15px;
+            background-color: rgb(40, 34, 39);
+            border: none;
+            box-shadow: 4px 4px rgb(140, 132, 132);
+        }
+        .mod{
+            background-color: white;
+            color: black;
+        }
+        .modee{
+            background-color: rgb(40, 39, 39);
+            color: white;
+        }
+        #category{
+            width: 10%;
+            margin-left: 1px;
+        }
+        #searchInput{
+            width: 90%;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="dark-mode">
+        <div class="container">
+
+            <button id="modeButton">
+            </button>
+    
+            <div class="navCategory d-flex">
+                <input type="text" id="searchInput" class="form-control" placeholder="Search products...">
+                <select class="form-control" name="" id="category">
+                    <option value="">All</option>
+                </select>
+            </div>
+            <div class="row" id="cardField">
+    
+            </div>
+            <div id="iddisplay" style="display: none;">
+
+            </div>
+        </div>
+    </div>
+
+
+        
+    <script src="main.js"></script>
+</div>
+</html>
