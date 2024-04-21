@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="bgwhite">
+            <div class="row">
+                <b>Hörmətli istifadəçi!</b>
+                <p>Azərbaycan Respublikası Prezidenti cənab İlham Əliyevə və Prezident Administrasiyasına məktub göndərmək ücün aşağıdakı formanı doldurun. Diqqətli olmağınız Sizdən xahiş olunur!</p>
+                <p>(<span style="color: red;">*</span> - vacib sahələr) </p>
+
+                <div class="col-md-4">
+                    <label class="form-label">Adınız <span style="color: red;">*</span></label>
+                    <input type="text" id="txtName" class="form-control">
+                    <span class="txt-danger" style="color: red;">Ad sahesi bos olmamalidir</span>
+                </div>
+
+                <div class="col-md-4">
+                    <label class="form-label">Soyadınız <span style="color: red;">*</span></label>
+                    <input type="text" id="txtSurname" class="form-control">
+                    <span class="txt-danger" style="color: red;">Soyad sahesi bos olmamalidir</span>
+                </div>
+
+                <div class="col-md-4">
+                    <label class="form-label">Atanızın adı <span style="color: red;">*</span></label>
+                    <input type="text" id="txtAName" class="form-control">
+                    <span class="txt-danger" style="color: red;">Bu sahe bos olmamalidir</span>
+                </div>
+
+                <div class="col-md-6 mt-3">
+                    <label class="form-label">
+                        Ölkə <span style="color: red;">*</span>
+                        <input class="form-check-input" id="checkCountry" type="checkbox" value="" id="flexCheckChecked">
+                        <label class="form-check-label" for="flexCheckChecked">
+                            Azərbaycan
+                        </label>
+                    </label>
+                    <span class="txt-danger " style="color: red;">Bu sahə daxil edilməlidir</span>
+                    <label class="form-label"></label>
+                    <input type="text"  class="form-control dNoneCountry">
+                </div>
+
+           
+                <div class="col-md-6 mt-3 dNoneCountry">
+                    <label class="form-label">Şəhər <span style="color: red;">*</span></label>
+                    <input type="text" class="form-control" id="txtCity">
+                    <span class="txt-danger" style="color: red;">Bu sahə daxil edilməlidir</span>
+                </div>
+
+                <div class=" col-md-5 mt-4 " id="cityVisible">
+                    <label class="form-label">Şəhər <span style="color: red;">*</span></label>
+                    <select class="form-select" aria-label="Default select example">
+                        <option value="" style="color: red;">-- Siyahıdan seçin --</option>
+                        <option value="152">Bakı şəhəri</option>
+                        <option value="164">Gəncə şəhəri</option>
+                        <option value="172">Xankəndi şəhəri</option>
+                        <option value="165">Lənkəran şəhəri</option>
+                        <option value="166">Mingəçevir şəhəri</option>
+                        <option value="167">Naftalan şəhəri</option>
+                        <option value="173">Naxçıvan şəhəri</option>
+                        <option value="168">Sumqayıt şəhəri</option>
+                        <option value="169">Şəki şəhəri</option>
+                        <option value="170">Şirvan şəhəri</option>
+                        <option value="171">Yevlax şəhəri</option>
+                        <option value="181">Abşeron rayonu</option>
+                        <option value="183">Ağcabədi rayonu</option>
+                        <option value="182">Ağdam rayonu</option>
+                        <option value="184">Ağdaş rayonu</option>
+                        <option value="186">Ağstafa rayonu</option>
+                        <option value="187">Ağsu rayonu</option>
+                        <option value="188">Astara rayonu</option>
+                        <option value="189">Balakən rayonu</option>
+                        <option value="191">Beyləqan rayonu</option>
+                        <option value="190">Bərdə rayonu</option>
+                        <option value="192">Biləsuvar rayonu</option>
+                        <option value="193">Cəbrayıl rayonu</option>
+                        <option value="194">Cəlilabad rayonu</option>
+                        <option value="195">Daşkəsən rayonu</option>
+                        <option value="196">Füzuli rayonu</option>
+                        <option value="197">Gədəbəy rayonu</option>
+                        <option value="198">Goranboy rayonu</option>
+                        <option value="200">Göyçay rayonu</option>
+                        <option value="199">Göygöl rayonu</option>
+                        <option value="201">Hacıqabul rayonu</option>
+                        <option value="202">Xaçmaz rayonu</option>
+                        <option value="203">Xızı rayonu</option>
+                        <option value="204">Xocalı rayonu</option>
+                        <option value="205">Xocavənd rayonu</option>
+                        <option value="206">İmişli rayonu</option>
+                        <option value="207">İsmayıllı rayonu</option>
+                        <option value="208">Kəlbəcər rayonu</option>
+                        <option value="209">Kürdəmir rayonu</option>
+                        <option value="210">Qax rayonu</option>
+                        <option value="211">Qazax rayonu</option>
+                        <option value="212">Qəbələ rayonu</option>
+                        <option value="213">Qobustan rayonu</option>
+                        <option value="214">Quba rayonu</option>
+                        <option value="215">Qubadlı rayonu</option>
+                        <option value="216">Qusar rayonu</option>
+                        <option value="217">Laçın rayonu</option>
+                        <option value="218">Lerik rayonu</option>
+                        <option value="219">Masallı rayonu</option>
+                        <option value="220">Neftçala rayonu</option>
+                        <option value="221">Oğuz rayonu</option>
+                        <option value="222">Saatlı rayonu</option>
+                        <option value="223">Sabirabad rayonu</option>
+                        <option value="224">Samux rayonu</option>
+                        <option value="226">Salyan rayonu</option>
+                        <option value="225">Siyəzən rayonu</option>
+                        <option value="227">Şabran rayonu</option>
+                        <option value="228">Şamaxı rayonu</option>
+                        <option value="229">Şəmkir rayonu</option>
+                        <option value="230">Şuşa rayonu</option>
+                        <option value="231">Tərtər rayonu</option>
+                    </select>
+                </div>
+
+                <div class="col-md-12 mt-3">
+                    <label class="form-label">Ünvan <span style="color: red;">*</span></label>
+                    <input type="text" id="address" class="form-control">
+                    <span class="txt-danger" style="color: red;">Bu sahe bos olmamalidir</span>
+                </div>
+
+                <div class="col-md-6 mt-3">
+                    <label class="form-label">Telefon <span style="color: red;">*</span></label>
+                    <input type="text" id="phonenumber" class="form-control">
+                    <span class="txt-danger" style="color: red;">Bu sahe bos olmamalidir</span>
+                </div>
+
+                <div class="col-md-6 mt-3">
+                    <label class="form-label">e-Mail <span style="color: red;">*</span></label>
+                    <input type="text" id="mail" class="form-control">
+                    <span class="txt-danger" style="color: red;">Bu sahe bos olmamalidir</span>
+                </div>
+
+                <div class="col-md-2 mt-3">
+                    <label class="form-label">Yaşınız<span style="color: red;">*</span></label>
+                    <input type="text" id="txtAge" class="form-control">
+                    <span class="txt-danger" style="color: red;">Yas sahesi bos olmamalidir</span>
+                </div>
+                <div class="col-md-3 mt-3">
+                    <label class="form-label">Cinsiniz<span style="color: red;">*</span></label>
+                    <div class="d-flex">
+                        <div class="form-check">
+                            <input class="form-check-input check-gender" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                            <label class="form-check-label" for="flexRadioDefault1">
+                                Qadın
+                            </label>
+                        </div>
+                        <div class="form-check" style="margin-left: 2rem;">
+                            <input class="form-check-input  check-gender" type="radio" name="flexRadioDefault" id="flexRadioDefault2">
+                            <label class="form-check-label" for="flexRadioDefault2">
+                                Kişi
+                            </label>
+                        </div>
+                    </div>
+                    <span class="txt-danger txt-g" style="color: red;">Bu sahə daxil edilməlidir</span>
+                </div>
+                <div class="col-md-7 mt-3">
+                    <label class="form-label">Sosial durum <span style="color: red;">*</span></label>
+                    <select id="socialStatus" class="form-select">
+                        <option value="" selected>Open this select menu</option>
+                        <option value="1">One</option>
+                        <option value="2">Two</option>
+                        <option value="3">Three</option>
+                    </select>
+                    <span class="txt-danger" style="color: red;">Bu sahe bos olmamalidir</span>
+                </div>
+
+                <div class="col-md-6 mt-3">
+                    <label class="form-label">Müraciətin növü<span style="color: red;">*</span></label>
+                    <div class="d-flex">
+                        <div class="form-check">
+                            <input class="form-check-input checktrue" type="radio" name="apply" id="flexRadioDefault1">
+                            <label class="form-check-label" for="flexRadioDefault1">
+                                Təklif
+                            </label>
+                        </div>
+                        <div class="form-check" style="margin-left: 2rem;">
+                            <input class="form-check-input checktrue" type="radio" name="apply" id="flexRadioDefault2">
+                            <label class="form-check-label" for="flexRadioDefault2">
+                                Ərizə
+                            </label>
+                        </div>
+                        <div class="form-check" style="margin-left: 2rem;">
+                            <input class="form-check-input checktrue" type="radio" name="apply" id="flexRadioDefault2" >
+                            <label class="form-check-label" for="flexRadioDefault2">
+                                Şikayət
+                            </label>
+                        </div>
+                    </div>
+                    <span class="txt-danger txt-m" style="color: red;">Bu sahə daxil edilməlidir</span>
+                </div>
+
+                <div class="col-md-9 mt-3">
+                    <label class="form-label">Müraciətin mövzusu <span style="color: red;">*</span></label>
+                    <p>Əsas mövzu</p>
+                    <select class="form-select" aria-label="Default select example">
+                        <option selected>--Siyahidan secin--</option>
+                        <option value="1">One</option>
+                        <option value="2">Two</option>
+                        <option value="3">Three</option>
+                      </select>
+                </div>
+
+                <div class="col-md-4">   
+                </div>
+
+                <div class="col-md-12 mt-3">
+                    <label class="form-label">Müraciət — <span id="count">500</span>  işarə qalıb <span style="color: red;">*</span></label>
+                    <textarea class="form-control" id="txtApply" cols="30" rows="10"></textarea>
+                    <span class="txt-danger" style="color: red;">Bu sahe bos olmamalidir</span>
+                </div>
+
+                <div class="col-md-12">
+                    <button class="btn btn-primary" id="submitBtn">
+                        Təsdiq edin
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+    <script src="main.js"></script>
+</body>
+</html>

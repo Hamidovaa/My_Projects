@@ -1,0 +1,38 @@
+body{
+    background-color: #F1F1F1 !important;
+}
+.bgwhite{
+    background-color: white;
+    padding: 2rem;
+}
+#submitBtn{
+    display: block;
+    margin: auto;
+    border: 0;
+    font-size: 18px;
+    padding: 11px 17px;
+    box-shadow:15px 13px 2px grey ;
+    background-color: #224285;
+}
+label{
+    font-weight: bold;
+    color: #224285;
+}
+.bgwhite b{
+    color: #224285;
+}
+.bgwhite P{
+    color: #224285;
+}
+.form-select option{
+    color: #224285;
+}
+.active{
+    display: none;
+}
+#cityVisible{
+    display: none;
+}
+.txt-danger{
+   display: none;
+}
