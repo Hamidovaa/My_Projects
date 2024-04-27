@@ -26,8 +26,9 @@
             <div class="col-lg-12">
                 <div class="card job-filter">
                     <div class="card-body p-3">
-                        <form method="post" asp-area="Admin" asp-controller="Slider" asp-action="Create" class="row">
+                        <form method="post" asp-area="Admin" asp-controller="Slider" asp-action="Create" class="row" enctype="multipart/form-data">
                             @Html.AntiForgeryToken()
+                            
                             <div class="col-md-3">
                                 <label>
                                     Sub Title
@@ -53,10 +54,10 @@
                                 <label>
                                     Image
                                 </label>
-                                <input asp-for="ImgUrl" type="file" class="form-control" />
+                                <input asp-for="file" type="file" class="form-control" />
                             </div>
                             <div class="col-md-3">
-                                <button type="submit" class="btn btn-danger btn-block mt-3">Add Database</button>
+                                <button type="submit" class="btn btn-danger btn-block mt-3">Create</button>
                             </div>
                         </form>
                     </div>
@@ -69,3 +70,5 @@
 
     </div> <!-- container-fluid -->
 </div><!-- End Page-content -->
+
+

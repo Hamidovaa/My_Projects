@@ -1,0 +1,45 @@
+﻿@model List
+<div class="page-content">
+    <div class="container-fluid">
+
+       
+      
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card job-filter">
+                    <div class="card-body p-3">
+                        <table class="table">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Name</th>
+                                    <th scope="col">Description</th>
+                                    <th scope="col">Category</th>
+                                    <th scope="col">Price</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var item in Model)
+                                {
+                                    <tr>
+                                        <td>@item.Name</td>
+                                        <td>@item.Description</td>
+                                        <td>@item.Category.Name</td>
+                                        <td>@item.Price</td>
+                                        
+
+
+                                    </tr>
+                                };
+
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+            <!--end col-->
+        </div>
+        <!--end row-->
+
+
+    </div> <!-- container-fluid -->
+</div><!-- End Page-content -->

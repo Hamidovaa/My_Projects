@@ -21,6 +21,52 @@ namespace ecom.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("ecom.Models.Category", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Categories");
+                });
+
+            modelBuilder.Entity("ecom.Models.Products", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("CategorytId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<double>("Price")
+                        .HasColumnType("float");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CategorytId");
+
+                    b.ToTable("Products");
+                });
+
             modelBuilder.Entity("ecom.Models.Slider", b =>
                 {
                     b.Property<int>("Id")
@@ -31,6 +77,9 @@ namespace ecom.Migrations
 
                     b.Property<string>("ImgUrl")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsCheck")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Price")
                         .IsRequired()
@@ -46,7 +95,23 @@ namespace ecom.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("sliders");
+                    b.ToTable("Sliders");
+                });
+
+            modelBuilder.Entity("ecom.Models.Products", b =>
+                {
+                    b.HasOne("ecom.Models.Category", "Category")
+                        .WithMany("Products")
+                        .HasForeignKey("CategorytId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
+                });
+
+            modelBuilder.Entity("ecom.Models.Category", b =>
+                {
+                    b.Navigation("Products");
                 });
 #pragma warning restore 612, 618
         }

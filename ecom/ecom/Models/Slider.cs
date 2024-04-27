@@ -1,4 +1,6 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ecom.Models
 {
@@ -11,6 +13,11 @@ namespace ecom.Models
         public string Title { get; set; }
         [Required]
         public string Price { get; set; }
-        public string? ImgUrl { get; set; }
+        public string ? ImgUrl { get; set; }
+        [NotMapped]
+        [ValidateNever]
+        public IFormFile file { get; set; }
+
+        public bool IsCheck { get; set; } = false;
     }
 }

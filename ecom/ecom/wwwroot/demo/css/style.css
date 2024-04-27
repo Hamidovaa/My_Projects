@@ -2527,7 +2527,7 @@ output {
   font-size: 14px;
   line-height: 1.42857;
   color: #555555;
-  background-color: #fff;
+  background-color: black;
   background-image: none;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -6330,12 +6330,14 @@ button.close {
             box-shadow: 0px 2px 20px 2px rgba(236, 29, 255, 0.68); }
 
 .e-yl-gradient {
-  background: #ca9171;
-  background-image: linear-gradient(122deg, #ca9171, #f8ccb3); }
+    border:1px solid grey;
+  background: #FFF;
+  color:grey;
+  background-color:white; }
   .e-yl-gradient:hover {
-    color: #fff;
-    -webkit-box-shadow: 0px 2px 20px 2px rgba(202, 145, 112, 0.68);
-            box-shadow: 0px 2px 20px 2px rgba(202, 145, 112, 0.68); }
+    color: #999;
+    -webkit-box-shadow: 0px 2px 20px 2px rgba;
+            box-shadow: 0px 2px 20px 2px rgba; }
 
 .e-red-gradient {
   background: #ff4065;
@@ -6505,9 +6507,9 @@ section.all-s {
     margin: 0 auto; } }
 
 .h3-bg {
-  background: url("../img/h3-bg.jpg") no-repeat center center;
-  background-size: cover; }
-
+    background: url("../img/h3-bg");
+    background-color: #FFFFFF;
+}
 .tab-content > .tab-pane {
   display: block;
   visibility: hidden; }
@@ -6540,7 +6542,7 @@ ol {
 
 body {
   font-family: "Helvetica Neue LT Std", sans-serif;
-  color: #333333;
+  color: white;
   font-size: 14px; }
 
 a {
@@ -6555,8 +6557,11 @@ ul, li {
   list-style: none; }
 
 img {
-  display: inline;
-  max-width: 100%; }
+    display: block;
+    max-width: 100%;
+    padding-top: 9px;
+    margin:auto;
+}
 
 input, textarea, button {
   border-radius: 0px; }
@@ -8271,7 +8276,7 @@ span.star:before {
       color: #fff; }
   .slide-content .slide-btn {
     font-size: 14px;
-    color: #fefefe;
+    color: grey;
     border-radius: 999px;
     display: inline-block;
     width: 100px;
@@ -8630,13 +8635,14 @@ span.star:before {
     top: 6px;
     right: 5px; }
     .searchform.full .input-group-btn .button_search {
-      color: #fff;
-      width: 50px;
-      height: 50px;
-      line-height: 50px;
-      font-size: 20px;
-      border-radius: 50%;
-      background: #333333; }
+        color: #fff;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 20px;
+        border-radius: 50%;
+        background: #2c2d38;
+    }
 
 .vertical-divider {
   display: table;
@@ -15270,11 +15276,12 @@ span.star:before {
   /* NEW, Spec - Opera 12.1, Firefox 20+ */ }
 
 .header-search {
-  padding-left: 95px;
-  padding-top: 10px; }
+  padding-left:5px;
+  padding-top: 10px;
+}
   @media (min-width: 1650px) {
     .header-search form {
-      width: 760px; } }
+      width: 440px; } }
   .header-search form {
     display: table;
     position: relative; }
@@ -15317,7 +15324,7 @@ span.star:before {
         width: 470px; } }
     @media (min-width: 1650px) {
       .header-search input {
-        width: 540px; } }
+        width: 240px; } }
   .header-search .select-option {
     width: 220px;
     height: 62px;
@@ -15346,7 +15353,7 @@ span.star:before {
     -moz-appearance: none;
     appearance: none;
     cursor: pointer;
-    background-color: #fff;
+    background-color: black;
     position: relative; }
     @media (min-width: 1025px) {
       .header-search .search-panel {
@@ -15467,13 +15474,18 @@ span.star:before {
   margin-right: 15px; }
 
 .header-center {
-  padding-top: 15px;
-  padding-bottom: 15px;
+    .header-center {
+        padding-top: 14px;
+        padding-bottom: 14px;
+        background-color: black;
+    }
   border-bottom: 1px solid #eeeeee; }
   @media (min-width: 1025px) {
     .header-center {
-      padding-top: 36px;
-      padding-bottom: 30px; } }
+        padding-top: 14px;
+        padding-bottom: 14px;
+        background-color: black;
+    } }
 
 @media (min-width: 1025px) {
   .header-logo {
@@ -16984,7 +16996,7 @@ footer .f-top {
     background: #fff; }
   @media (min-width: 1025px) {
     footer .f-top {
-      padding: 74px 0; } }
+      padding: 4px 0; } }
   footer .f-top [class*="col-xs-"] {
     margin-bottom: 30px; }
   @media (min-width: 1025px) {
@@ -17044,7 +17056,10 @@ footer .f-top {
       margin-right: -20px; } }
 
 .f-logo {
-  margin-bottom: 30px; }
+  margin-bottom: 10px; }
+.f-logo a{
+    color: black;
+}
 
 .f-payment {
   display: -webkit-box;
@@ -17757,7 +17772,7 @@ footer .f-top {
   padding: 30px 0; }
   .feature.v2 {
     background: transparent;
-    padding-top: 20px; }
+    padding-top: 15px; }
     @media (min-width: 1025px) {
       .feature.v2 {
         padding-bottom: 115px; } }

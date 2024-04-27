@@ -31,7 +31,7 @@ namespace ecom.Areas.Admin.Controllers
                 return View(slider);
             }
 
-            appDbContext.sliders.Add(slider);
+            appDbContext.Sliders.Add(slider);
             appDbContext.SaveChanges();
             return RedirectToAction("Index");
         }

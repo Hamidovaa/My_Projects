@@ -1,0 +1,3197 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\ecom.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ecom.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\1f66387b-87fd-4ce6-8e9c-b4fb25982d75iPhone 15 128 GB Pink-500x500.jpg",
+      "PackagePath": "staticwebassets\\UploadSlider\\1f66387b-87fd-4ce6-8e9c-b4fb25982d75iPhone 15 128 GB Pink-500x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\2eb24e02-f9cf-45fe-bb53-2cc80d2881b2c69c514f-f575-4c79-acd1-8c8132b370bb.png",
+      "PackagePath": "staticwebassets\\UploadSlider\\2eb24e02-f9cf-45fe-bb53-2cc80d2881b2c69c514f-f575-4c79-acd1-8c8132b370bb.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\3530df7a-7911-4aac-b147-c3b248ac45c1Untitled-3.jpg",
+      "PackagePath": "staticwebassets\\UploadSlider\\3530df7a-7911-4aac-b147-c3b248ac45c1Untitled-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\4736ecba-cbce-43e0-a1d2-d6cb228c7c61Untitled-1.jpg",
+      "PackagePath": "staticwebassets\\UploadSlider\\4736ecba-cbce-43e0-a1d2-d6cb228c7c61Untitled-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\48103e22-69b0-4903-8a6d-97715fd3db98Untitled-1-Recovered.jpg",
+      "PackagePath": "staticwebassets\\UploadSlider\\48103e22-69b0-4903-8a6d-97715fd3db98Untitled-1-Recovered.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\51c68e61-ce79-40aa-9063-afd7ede04c63Untitled-2.jpg",
+      "PackagePath": "staticwebassets\\UploadSlider\\51c68e61-ce79-40aa-9063-afd7ede04c63Untitled-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\5bfe8797-eaa3-43c5-9f12-c97b6de804b5Apple-MacBook-Pro-Featured.jpeg",
+      "PackagePath": "staticwebassets\\UploadSlider\\5bfe8797-eaa3-43c5-9f12-c97b6de804b5Apple-MacBook-Pro-Featured.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\61a65da6-a598-4c67-85e1-6fb4f169353eUntitled3.jpg",
+      "PackagePath": "staticwebassets\\UploadSlider\\61a65da6-a598-4c67-85e1-6fb4f169353eUntitled3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\7d75477a-b7d6-4f16-965a-ff382c44c921Untitled-3.jpg",
+      "PackagePath": "staticwebassets\\UploadSlider\\7d75477a-b7d6-4f16-965a-ff382c44c921Untitled-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\8b8d152d-e19d-44fd-9cd8-14a6d7186a60h3_s3.jpg",
+      "PackagePath": "staticwebassets\\UploadSlider\\8b8d152d-e19d-44fd-9cd8-14a6d7186a60h3_s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\929512af-346d-410e-8d6a-6d2f73a6529dh3_s2.jpg",
+      "PackagePath": "staticwebassets\\UploadSlider\\929512af-346d-410e-8d6a-6d2f73a6529dh3_s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\9412436b-5b38-49df-951f-73e35530690eiphone-15-pro-finish-select-202309-6-1inch.jpg",
+      "PackagePath": "staticwebassets\\UploadSlider\\9412436b-5b38-49df-951f-73e35530690eiphone-15-pro-finish-select-202309-6-1inch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\96ba8d10-6259-4cf7-8c93-1dd70aeb1865h3_s1.jpg",
+      "PackagePath": "staticwebassets\\UploadSlider\\96ba8d10-6259-4cf7-8c93-1dd70aeb1865h3_s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\a719f02a-e539-4ec1-a945-a61019025fb8Untitled4.jpg",
+      "PackagePath": "staticwebassets\\UploadSlider\\a719f02a-e539-4ec1-a945-a61019025fb8Untitled4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\ab624218-a0b0-47ab-ac50-1e95e4ebac7dUntitled-3.jpg",
+      "PackagePath": "staticwebassets\\UploadSlider\\ab624218-a0b0-47ab-ac50-1e95e4ebac7dUntitled-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\eda4ab33-1e51-48e4-b520-43796dcc0740Untitled-1.jpg",
+      "PackagePath": "staticwebassets\\UploadSlider\\eda4ab33-1e51-48e4-b520-43796dcc0740Untitled-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\UploadSlider\\ee74dd0a-d574-4679-97c4-145629e5abf2Apple-MacBook-Pro-Featured.jpeg",
+      "PackagePath": "staticwebassets\\UploadSlider\\ee74dd0a-d574-4679-97c4-145629e5abf2Apple-MacBook-Pro-Featured.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\app.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\boxiconsd41d.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\boxiconsd41d.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2.woff"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\dripicons-v2d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\dripicons-v2d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\materialdesignicons-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\materialdesignicons-webfonte910.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfonte910.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\materialdesignicons-webfonte910.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfonte910.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\materialdesignicons-webfonte910.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfonte910.woff"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\fonts\\materialdesignicons-webfonte910.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\materialdesignicons-webfonte910.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\brands\\bitbucket.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\bitbucket.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\brands\\dropbox.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\dropbox.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\brands\\github.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\brands\\mail_chimp.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\mail_chimp.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\assets\\images\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\clients\\1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\clients\\2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\clients\\3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\clients\\4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\clients\\5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\clients\\6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\clients\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\coming-soon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\coming-soon.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\adobe-photoshop.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\adobe-photoshop.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\adobe.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\adobe.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\airbnb.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\airbnb.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\amazon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\amazon.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\flutter.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\flutter.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\img-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\img-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\img-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\img-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\img-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\img-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\img-6.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\line.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\line.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\mailchimp.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\mailchimp.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\reddit.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\reddit.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\sass.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\sass.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\spotify.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\spotify.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\upwork.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\upwork.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\wechat.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\wechat.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\companies\\wordpress.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\companies\\wordpress.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\crypto\\blog\\img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\blog\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\crypto\\blog\\img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\blog\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\crypto\\blog\\img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\blog\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\crypto\\features-img\\img-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\features-img\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\crypto\\features-img\\img-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\crypto\\features-img\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\error-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\error-img.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\flags\\germany.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\germany.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\flags\\italy.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\italy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\flags\\russia.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\russia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\flags\\spain.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\spain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\flags\\us.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\flags\\us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\jobs.png",
+      "PackagePath": "staticwebassets\\assets\\images\\jobs.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\layouts\\layout-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\layout-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\layouts\\layout-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\layout-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\layouts\\layout-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\layout-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\layouts\\layout-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\layouts\\layout-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\logo-dark.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\logo-light.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\logo-light.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-light.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\maintenance.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\maintenance.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\megamenu-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\megamenu-img.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\product\\img-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\product\\img-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\product\\img-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\product\\img-4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\product\\img-5.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\product\\img-6.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-6.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\product\\img-7.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-7.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\product\\img-8.png",
+      "PackagePath": "staticwebassets\\assets\\images\\product\\img-8.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\profile-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\profile-img.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\small\\img-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\small\\img-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\small\\img-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\small\\img-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\small\\img-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\small\\img-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\small\\img-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small\\img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\users\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\users\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\users\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\users\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\users\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\users\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\users\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\users\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\avatar-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\users\\user-dummy-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\users\\user-dummy-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\images\\verification-img.png",
+      "PackagePath": "staticwebassets\\assets\\images\\verification-img.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\app.js",
+      "PackagePath": "staticwebassets\\assets\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\alerts.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\alerts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\apexcharts.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\apexcharts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\auth-2-carousel.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\auth-2-carousel.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\bootstrap-toastr.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\bootstrap-toastr.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\calendar.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\calendar.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\calendars-full.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\calendars-full.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\calendars.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\calendars.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\candidate-list.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\candidate-list.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\chartjs.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\chartjs.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\coming-soon.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\coming-soon.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\contact-user-list.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\contact-user-list.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\crypto-dashboard.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\crypto-dashboard.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\crypto-exchange.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\crypto-exchange.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\crypto-kyc-app.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\crypto-kyc-app.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\crypto-orders.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\crypto-orders.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\crypto-wallet.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\crypto-wallet.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\dashboard-blog.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboard-blog.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\dashboard-job.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboard-job.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\dashboard.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\dashboard.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\datatables.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\datatables.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\echarts.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\echarts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\ecommerce-cart.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ecommerce-cart.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\ecommerce-checkout.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ecommerce-checkout.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\ecommerce-customer-list.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ecommerce-customer-list.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\ecommerce-order-list.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ecommerce-order-list.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\ecommerce-select2.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ecommerce-select2.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\email-editor.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\email-editor.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\file-manager.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\file-manager.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\flot.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\flot.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\fontawesome.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\fontawesome.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\form-advanced.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-advanced.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\form-editor.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-editor.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\form-file-upload.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-file-upload.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\form-mask.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-mask.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\form-repeater.int.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-repeater.int.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\form-validation.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-validation.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\form-wizard.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-wizard.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\form-xeditable.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\form-xeditable.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\gmaps.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\gmaps.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\ico-landing.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\ico-landing.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\job-grid-list.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\job-grid-list.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\job-list.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\job-list.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\jquery-knob.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\jquery-knob.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\leaflet-map.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\leaflet-map.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\leaflet-us-states.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\leaflet-us-states.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\lightbox.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\lightbox.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\materialdesign.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\materialdesign.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\modal.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\modal.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\product-list.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\product-list.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\profile.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\profile.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\project-create.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\project-create.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\project-list.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\project-list.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\project-overview.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\project-overview.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\range-sliders.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\range-sliders.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\rating-init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\rating-init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\saas-dashboard.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\saas-dashboard.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\schedules.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\schedules.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\session-timeout.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\session-timeout.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\sparklines.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\sparklines.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\sweet-alerts.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\sweet-alerts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\table-editable.int.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\table-editable.int.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\table-responsive.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\table-responsive.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\task-create.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\task-create.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\task-form.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\task-form.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\task-kanban.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\task-kanban.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\tasklist.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\tasklist.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\timeline.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\timeline.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\toastr.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\toastr.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\tui-charts.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\tui-charts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\two-step-verification.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\two-step-verification.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\validation.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\validation.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\pages\\vector-maps.init.js",
+      "PackagePath": "staticwebassets\\assets\\js\\pages\\vector-maps.init.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\@chenfengyuan\\datepicker\\datepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\@chenfengyuan\\datepicker\\datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\@chenfengyuan\\datepicker\\datepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\@chenfengyuan\\datepicker\\datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\@curiosityx\\bootstrap-session-timeout\\index.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\@curiosityx\\bootstrap-session-timeout\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-au-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-au-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-ca-lcc-en.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-ca-lcc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-in-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-in-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-il-chicago-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-il-chicago-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-merc-en.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-merc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\admin-resources\\rwd-table\\rwd-table.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\rwd-table\\rwd-table.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\admin-resources\\rwd-table\\rwd-table.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\admin-resources\\rwd-table\\rwd-table.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-datepicker\\css\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-datepicker\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\bootstrap-editable\\css\\bootstrap-editable.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-editable\\css\\bootstrap-editable.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\bootstrap-editable\\img\\clear.png",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-editable\\img\\clear.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\bootstrap-editable\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-editable\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\bootstrap-editable\\js\\index.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-editable\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\bootstrap-maxlength\\bootstrap-maxlength.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-maxlength\\bootstrap-maxlength.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\bootstrap-rating\\bootstrap-rating.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-rating\\bootstrap-rating.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\bootstrap-rating\\bootstrap-rating.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-rating\\bootstrap-rating.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\bootstrap-timepicker\\css\\bootstrap-timepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-timepicker\\css\\bootstrap-timepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-timepicker\\js\\bootstrap-timepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\chance\\chance.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\chance\\chance.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\chart.js\\chart.umd.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\chart.js\\chart.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\datatables.net-bs4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-bs4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\datatables.net-bs4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-bs4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\datatables.net-buttons-bs4\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-buttons-bs4\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\datatables.net-buttons-bs4\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-buttons-bs4\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\datatables.net-buttons\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-buttons\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\datatables.net-buttons\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-buttons\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\datatables.net-buttons\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-buttons\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\datatables.net-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\datatables.net-responsive-bs4\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-responsive-bs4\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\datatables.net-responsive-bs4\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-responsive-bs4\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\datatables.net-responsive\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net-responsive\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\datatables.net\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\datatables.net\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\dragula\\dragula.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\dragula\\dragula.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\dragula\\dragula.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\dragula\\dragula.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\dropzone\\dropzone-min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\dropzone\\dropzone-min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\dropzone\\dropzone.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\dropzone\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\flot-charts\\jquery.flot.crosshair.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot-charts\\jquery.flot.crosshair.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\flot-charts\\jquery.flot.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot-charts\\jquery.flot.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\flot-charts\\jquery.flot.pie.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot-charts\\jquery.flot.pie.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\flot-charts\\jquery.flot.resize.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot-charts\\jquery.flot.resize.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\flot-charts\\jquery.flot.selection.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot-charts\\jquery.flot.selection.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\flot-charts\\jquery.flot.stack.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot-charts\\jquery.flot.stack.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\flot-charts\\jquery.flot.time.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot-charts\\jquery.flot.time.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\flot.curvedLines\\curvedLines.html",
+      "PackagePath": "staticwebassets\\assets\\libs\\flot.curvedLines\\curvedLines.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\fullcalendar\\index.global.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\fullcalendar\\index.global.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\gmaps\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\gmaps\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\inputmask\\inputmask.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\inputmask\\inputmask.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\ion-rangeslider\\css\\ion.rangeSlider.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\ion-rangeslider\\css\\ion.rangeSlider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\ion-rangeslider\\js\\ion.rangeSlider.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\ion-rangeslider\\js\\ion.rangeSlider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\jquery-countdown\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery-countdown\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\jquery-knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery-knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\jquery-sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery-sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\jquery-steps\\build\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery-steps\\build\\jquery.steps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\jquery-ui-dist\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery-ui-dist\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\jquery-validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery-validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\jquery.easing\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery.easing\\jquery.easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\jquery.flot.tooltip\\js\\jquery.flot.tooltip.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery.flot.tooltip\\js\\jquery.flot.tooltip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\jquery.repeater\\jquery.repeater.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery.repeater\\jquery.repeater.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\jszip\\jszip.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\jszip\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\leaflet\\images\\layers-2x.png",
+      "PackagePath": "staticwebassets\\assets\\libs\\leaflet\\images\\layers-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\leaflet\\images\\layers.png",
+      "PackagePath": "staticwebassets\\assets\\libs\\leaflet\\images\\layers.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\leaflet\\images\\marker-icon.png",
+      "PackagePath": "staticwebassets\\assets\\libs\\leaflet\\images\\marker-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\leaflet\\leaflet.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\leaflet\\leaflet.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\leaflet\\leaflet.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\leaflet\\leaflet.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\magnific-popup\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\magnific-popup\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\magnific-popup\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\magnific-popup\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\masonry-layout\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\masonry-layout\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\metismenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\metismenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\moment\\min\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\moment\\min\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\node-waves\\waves.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\node-waves\\waves.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\owl.carousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\owl.carousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\owl.carousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\owl.carousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\owl.carousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\assets\\libs\\owl.carousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\owl.carousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\owl.carousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\parsleyjs\\parsley.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\parsleyjs\\parsley.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\pdfmake\\build\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\pdfmake\\build\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\pdfmake\\build\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\pdfmake\\build\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\simplebar\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\simplebar\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\spectrum-colorpicker2\\spectrum.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\spectrum-colorpicker2\\spectrum.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\spectrum-colorpicker2\\spectrum.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\spectrum-colorpicker2\\spectrum.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\summernote\\summernote-bs4.min.html",
+      "PackagePath": "staticwebassets\\assets\\libs\\summernote\\summernote-bs4.min.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\table-edits\\build\\table-edits.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\table-edits\\build\\table-edits.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\toastr\\build\\toastr.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\toastr\\build\\toastr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\toastr\\build\\toastr.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\toastr\\build\\toastr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\tui-calendar\\tui-calendar.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-calendar\\tui-calendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\tui-calendar\\tui-calendar.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-calendar\\tui-calendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\tui-chart\\maps\\usa.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-chart\\maps\\usa.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\tui-chart\\tui-chart-all.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-chart\\tui-chart-all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\tui-chart\\tui-chart.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-chart\\tui-chart.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\tui-date-picker\\tui-date-picker.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-date-picker\\tui-date-picker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\tui-date-picker\\tui-date-picker.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-date-picker\\tui-date-picker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\tui-dom\\tui-dom.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-dom\\tui-dom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\tui-time-picker\\tui-time-picker.min.css",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-time-picker\\tui-time-picker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\assets\\libs\\tui-time-picker\\tui-time-picker.min.js",
+      "PackagePath": "staticwebassets\\assets\\libs\\tui-time-picker\\tui-time-picker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\360degree.html",
+      "PackagePath": "staticwebassets\\demo\\360degree.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\404.html",
+      "PackagePath": "staticwebassets\\demo\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\aboutus.html",
+      "PackagePath": "staticwebassets\\demo\\aboutus.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\affilate.html",
+      "PackagePath": "staticwebassets\\demo\\affilate.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\best-selling.html",
+      "PackagePath": "staticwebassets\\demo\\best-selling.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\blog-single-post.html",
+      "PackagePath": "staticwebassets\\demo\\blog-single-post.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\blog-standar.html",
+      "PackagePath": "staticwebassets\\demo\\blog-standar.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\blog_grid.html",
+      "PackagePath": "staticwebassets\\demo\\blog_grid.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\bundle.html",
+      "PackagePath": "staticwebassets\\demo\\bundle.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\cart.html",
+      "PackagePath": "staticwebassets\\demo\\cart.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\cat_fullwidth.html",
+      "PackagePath": "staticwebassets\\demo\\cat_fullwidth.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\cat_left_sidebar.html",
+      "PackagePath": "staticwebassets\\demo\\cat_left_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\cat_right_sidebar.html",
+      "PackagePath": "staticwebassets\\demo\\cat_right_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\checkout.html",
+      "PackagePath": "staticwebassets\\demo\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\commingsoon.html",
+      "PackagePath": "staticwebassets\\demo\\commingsoon.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\contactus.html",
+      "PackagePath": "staticwebassets\\demo\\contactus.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\created-ascending.html",
+      "PackagePath": "staticwebassets\\demo\\created-ascending.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\created-descending.html",
+      "PackagePath": "staticwebassets\\demo\\created-descending.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\demo\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\css\\bootstrap-slider.css",
+      "PackagePath": "staticwebassets\\demo\\css\\bootstrap-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\css\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\demo\\css\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\css\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\demo\\css\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\css\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\demo\\css\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\css\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\demo\\css\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\css\\fonts\\slickd41d.eot",
+      "PackagePath": "staticwebassets\\demo\\css\\fonts\\slickd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\demo\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\demo\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\demo\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\demo\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\demo\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\css\\slick.css",
+      "PackagePath": "staticwebassets\\demo\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\css\\style.css",
+      "PackagePath": "staticwebassets\\demo\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\css\\threesixty.css",
+      "PackagePath": "staticwebassets\\demo\\css\\threesixty.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\faq.html",
+      "PackagePath": "staticwebassets\\demo\\faq.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\feature_video.html",
+      "PackagePath": "staticwebassets\\demo\\feature_video.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\fonts\\bootstrap\\glyphicons-halflings-regular-2.html",
+      "PackagePath": "staticwebassets\\demo\\fonts\\bootstrap\\glyphicons-halflings-regular-2.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\fonts\\bootstrap\\glyphicons-halflings-regular-3.html",
+      "PackagePath": "staticwebassets\\demo\\fonts\\bootstrap\\glyphicons-halflings-regular-3.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\fonts\\bootstrap\\glyphicons-halflings-regular-4.html",
+      "PackagePath": "staticwebassets\\demo\\fonts\\bootstrap\\glyphicons-halflings-regular-4.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\fonts\\bootstrap\\glyphicons-halflings-regular-5.html",
+      "PackagePath": "staticwebassets\\demo\\fonts\\bootstrap\\glyphicons-halflings-regular-5.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\fonts\\bootstrap\\glyphicons-halflings-regular.html",
+      "PackagePath": "staticwebassets\\demo\\fonts\\bootstrap\\glyphicons-halflings-regular.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\fonts\\bootstrap\\glyphicons-halflings-regulard41d.html",
+      "PackagePath": "staticwebassets\\demo\\fonts\\bootstrap\\glyphicons-halflings-regulard41d.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\grouped.html",
+      "PackagePath": "staticwebassets\\demo\\grouped.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\home1.html",
+      "PackagePath": "staticwebassets\\demo\\home1.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\home2.html",
+      "PackagePath": "staticwebassets\\demo\\home2.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\home3.html",
+      "PackagePath": "staticwebassets\\demo\\home3.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\home4.html",
+      "PackagePath": "staticwebassets\\demo\\home4.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\home5.html",
+      "PackagePath": "staticwebassets\\demo\\home5.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\1400x45_1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\1400x45_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\404.png",
+      "PackagePath": "staticwebassets\\demo\\img\\404.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\KXZDmCUnWgfx1hHB0RSRuFSFjhmgFcA2nUtZjUJH.png",
+      "PackagePath": "staticwebassets\\demo\\img\\KXZDmCUnWgfx1hHB0RSRuFSFjhmgFcA2nUtZjUJH.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\Long-Arrow-Left-50.html",
+      "PackagePath": "staticwebassets\\demo\\img\\Long-Arrow-Left-50.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\Long-Arrow-right-50.html",
+      "PackagePath": "staticwebassets\\demo\\img\\Long-Arrow-right-50.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\about\\about_1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\about\\about_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\about\\about_2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\about\\about_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\about\\about_3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\about\\about_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\about\\icon1.png",
+      "PackagePath": "staticwebassets\\demo\\img\\about\\icon1.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\about\\icon2.png",
+      "PackagePath": "staticwebassets\\demo\\img\\about\\icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\about\\icon3.png",
+      "PackagePath": "staticwebassets\\demo\\img\\about\\icon3.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\about\\team_1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\about\\team_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\about\\team_2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\about\\team_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\about\\team_3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\about\\team_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\about\\team_4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\about\\team_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\b-product1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\b-product1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\b-product2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\b-product2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\b-product3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\b-product3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\b-product4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\b-product4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\b-product5.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\b-product5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner-top.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner-top.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h1_b1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h1_b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h1_b2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h1_b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h1_b3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h1_b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h1_b4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h1_b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h1_b5.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h1_b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h1_b6.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h1_b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h1_b7.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h1_b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h2_b1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h2_b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h2_b2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h2_b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h2_b3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h2_b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h2_b4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h2_b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h2_b5.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h2_b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h3_b1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h3_b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h3_b2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h3_b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h3_b3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h3_b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h4_b1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h4_b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h4_b2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h4_b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h4_b3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h4_b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h4_b4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h4_b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h4_b5.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h4_b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h4_b6.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h4_b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h5_b1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h5_b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h5_b2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h5_b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h5_b3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h5_b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h5_b4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h5_b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\banner\\h5_b5.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\banner\\h5_b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\ads.png",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\ads.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\author1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\author1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\author2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\author2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\author3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\author3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\author4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\author4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\blog-banner.png",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\blog-banner.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\blog-cm-icon.png",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\blog-cm-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\blog_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\blog_2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\blog_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\blog_3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\blog_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\blog_4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\blog_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\blog_5.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\blog_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\blog_6.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\blog_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\blog_7.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\blog_7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\blog_8.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\blog_8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\blog_9.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\blog_9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\h2_blog1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\h2_blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\h2_blog2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\h2_blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\h2_blog3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\h2_blog3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\insta_1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\insta_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\insta_2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\insta_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\insta_3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\insta_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\insta_4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\insta_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\insta_5.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\insta_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\insta_6.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\insta_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\newsletter.png",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\newsletter.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\post1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\post2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\post3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\post4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\post4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\quote.png",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\single-post.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\single-post.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\single-post2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\single-post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\single-post3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\single-post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\blog\\single-post4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\blog\\single-post4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\brand\\brand.png",
+      "PackagePath": "staticwebassets\\demo\\img\\brand\\brand.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\brand\\brand_2.png",
+      "PackagePath": "staticwebassets\\demo\\img\\brand\\brand_2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\brand\\brand_3.png",
+      "PackagePath": "staticwebassets\\demo\\img\\brand\\brand_3.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\brand\\brand_4.png",
+      "PackagePath": "staticwebassets\\demo\\img\\brand\\brand_4.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\brand\\brand_5.png",
+      "PackagePath": "staticwebassets\\demo\\img\\brand\\brand_5.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\brand\\brand_7.png",
+      "PackagePath": "staticwebassets\\demo\\img\\brand\\brand_7.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\brand\\brand_8.png",
+      "PackagePath": "staticwebassets\\demo\\img\\brand\\brand_8.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\brand\\brandlogo1.png",
+      "PackagePath": "staticwebassets\\demo\\img\\brand\\brandlogo1.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\brand\\brandlogo2.png",
+      "PackagePath": "staticwebassets\\demo\\img\\brand\\brandlogo2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\brand\\brandlogo3.png",
+      "PackagePath": "staticwebassets\\demo\\img\\brand\\brandlogo3.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\brand\\brandlogo4.png",
+      "PackagePath": "staticwebassets\\demo\\img\\brand\\brandlogo4.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\brand\\brandlogo5.png",
+      "PackagePath": "staticwebassets\\demo\\img\\brand\\brandlogo5.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\brand\\brandlogo6.png",
+      "PackagePath": "staticwebassets\\demo\\img\\brand\\brandlogo6.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\brand\\sony_info.png",
+      "PackagePath": "staticwebassets\\demo\\img\\brand\\sony_info.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\cart-w.png",
+      "PackagePath": "staticwebassets\\demo\\img\\cart-w.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\cart1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\cart1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\category\\1.png",
+      "PackagePath": "staticwebassets\\demo\\img\\category\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\category\\2.png",
+      "PackagePath": "staticwebassets\\demo\\img\\category\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\category\\3.png",
+      "PackagePath": "staticwebassets\\demo\\img\\category\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\category\\4.png",
+      "PackagePath": "staticwebassets\\demo\\img\\category\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\category\\5.png",
+      "PackagePath": "staticwebassets\\demo\\img\\category\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\category\\6.png",
+      "PackagePath": "staticwebassets\\demo\\img\\category\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\checkoutpp.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\checkoutpp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\co-coupon.png",
+      "PackagePath": "staticwebassets\\demo\\img\\co-coupon.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\co-login.png",
+      "PackagePath": "staticwebassets\\demo\\img\\co-login.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\coupon-icon.png",
+      "PackagePath": "staticwebassets\\demo\\img\\coupon-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\cs.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\cs.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\demo\\demo1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\demo\\demo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\demo\\demo2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\demo\\demo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\demo\\demo3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\demo\\demo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\demo\\demo4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\demo\\demo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\demo\\demo5.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\demo\\demo5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\demo\\demo6.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\demo\\demo6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\f-bg.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\f-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\f-mail.png",
+      "PackagePath": "staticwebassets\\demo\\img\\f-mail.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\f-phone.png",
+      "PackagePath": "staticwebassets\\demo\\img\\f-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\f-time.png",
+      "PackagePath": "staticwebassets\\demo\\img\\f-time.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\demo\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\b-tele.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\b-tele.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\b_credit.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\b_credit.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\b_truck.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\b_truck.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\credit-card.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\credit-card.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\credit-card2.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\credit-card2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\g-credit.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\g-credit.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\g-safety.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\g-safety.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\g-tele.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\g-tele.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\g-truck.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\g-truck.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\hotline.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\hotline.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\icons8-delivery-100.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\icons8-delivery-100.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\icons8-direction-100.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\icons8-direction-100.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\icons8-magnetic-card-100.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\icons8-magnetic-card-100.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\icons8-support-100.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\icons8-support-100.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\safety.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\safety.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\safety2.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\safety2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\telephone.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\telephone.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\truck.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\truck.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\feature\\truck2.png",
+      "PackagePath": "staticwebassets\\demo\\img\\feature\\truck2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\flash-deals.png",
+      "PackagePath": "staticwebassets\\demo\\img\\flash-deals.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\grid.png",
+      "PackagePath": "staticwebassets\\demo\\img\\grid.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\grid2.png",
+      "PackagePath": "staticwebassets\\demo\\img\\grid2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\h3-bg.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\h3-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon-call.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon-call.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon-cart.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon-cart.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon-cart2.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon-cart2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon-compare.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon-compare.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon-diamond.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon-diamond.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon-eye.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon-eye.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon-heart.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon-heart.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon-heart2.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon-heart2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon-l.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon-l.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon-map.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon-map.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon-phone.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon-phone.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon-ship.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon-ship.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon-track.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon-track.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon-user.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon-user.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon_1.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon_1.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon_2.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon_2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon_3.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon_3.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon_4.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon_4.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon_5.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon_5.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon_6.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon_6.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\icon_7.png",
+      "PackagePath": "staticwebassets\\demo\\img\\icon_7.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\iconbrand.png",
+      "PackagePath": "staticwebassets\\demo\\img\\iconbrand.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\iconbs.png",
+      "PackagePath": "staticwebassets\\demo\\img\\iconbs.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\list.png",
+      "PackagePath": "staticwebassets\\demo\\img\\list.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\logo-w.png",
+      "PackagePath": "staticwebassets\\demo\\img\\logo-w.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\logo.png",
+      "PackagePath": "staticwebassets\\demo\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\logoI.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\logoI.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\lookbook_1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\lookbook_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\lookbook_2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\lookbook_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\lookbook_3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\lookbook_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\megamenu\\cate1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\megamenu\\cate1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\megamenu\\cate2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\megamenu\\cate2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\megamenu\\cate3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\megamenu\\cate3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\megamenu\\cate4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\megamenu\\cate4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\megamenu\\cate5.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\megamenu\\cate5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\megamenu\\cate6.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\megamenu\\cate6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\megamenu\\headphone-bg.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\megamenu\\headphone-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\megamenu\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\megamenu\\home-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\megamenu\\phone-bg.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\megamenu\\phone-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\megamenu\\tv-bg.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\megamenu\\tv-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\o-banner.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\o-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\o-banner2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\o-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\o-banner3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\o-banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\parallax_1.html",
+      "PackagePath": "staticwebassets\\demo\\img\\parallax_1.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\parallax_2.html",
+      "PackagePath": "staticwebassets\\demo\\img\\parallax_2.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\parallax_3.html",
+      "PackagePath": "staticwebassets\\demo\\img\\parallax_3.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\parallax_4.html",
+      "PackagePath": "staticwebassets\\demo\\img\\parallax_4.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\payment\\american-express.png",
+      "PackagePath": "staticwebassets\\demo\\img\\payment\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\payment\\jcb.png",
+      "PackagePath": "staticwebassets\\demo\\img\\payment\\jcb.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\payment\\mastercard.png",
+      "PackagePath": "staticwebassets\\demo\\img\\payment\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\payment\\paypal.png",
+      "PackagePath": "staticwebassets\\demo\\img\\payment\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\payment\\pp.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\payment\\pp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\payment\\visa.png",
+      "PackagePath": "staticwebassets\\demo\\img\\payment\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\payment\\western-union.png",
+      "PackagePath": "staticwebassets\\demo\\img\\payment\\western-union.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\anker.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\anker.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\flycam.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\flycam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\fujifilm.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\fujifilm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\headphone.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\headphone.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\headphone2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\headphone2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\headphone3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\headphone3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\headphone4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\headphone4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\headphone5.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\headphone5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\ipad.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\ipad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\iphonex.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\iphonex.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\logitech.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\logitech.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\macbook.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\macbook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\macbook2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\macbook2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\macbookair.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\macbookair.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\pd1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\pd1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\pd2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\pd2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\pd3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\pd3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\pd4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\pd4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\phone1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\phone1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\phone2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\phone2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\phone3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\phone3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\phone4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\phone4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\phone5.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\phone5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\phonecase.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\phonecase.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\ring.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\ring.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\samsung.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\samsung.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\samsung2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\samsung2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\samsung3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\samsung3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\samsung4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\samsung4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\samsungbox.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\samsungbox.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\security.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\security.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\smartwatch.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\smartwatch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\snap.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\snap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\sonos.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\sonos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\sound.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\sound.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\sound2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\sound2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\sound3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\sound3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\tplink.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\tplink.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\tv.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\tv.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\tv2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\tv2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\tv3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\tv3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\ubl.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\ubl.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\usb.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\usb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\vivi.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\vivi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\wifi.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\wifi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\xbox.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\xbox.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\product\\xbox2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\product\\xbox2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\real.png",
+      "PackagePath": "staticwebassets\\demo\\img\\real.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\s-banner.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\s-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\scrolldown.html",
+      "PackagePath": "staticwebassets\\demo\\img\\scrolldown.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\shop-banner.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\shop-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\shop-banner_2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\shop-banner_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\shop-banner_3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\shop-banner_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\apple_brand.png",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\apple_brand.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\bass2.png",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\bass2.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\bass3.png",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\bass3.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\des_1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\des_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\des_2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\des_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\des_3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\des_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\glass1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\glass1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\glass2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\glass2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\glass3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\glass3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\glass4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\glass4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\glass5.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\glass5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\iphone_2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\iphone_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\iphone_3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\iphone_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\iphone_4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\iphone_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\iphone_info_1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\iphone_info_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\iphone_info_2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\iphone_info_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\nike1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\nike1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\nike2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\nike2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\nike3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\nike3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\nike4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\nike4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\simple_icon.png",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\simple_icon.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\smartwatch1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\smartwatch1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\smartwatch2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\smartwatch2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\smartwatch3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\smartwatch3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\smartwatch4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\smartwatch4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\sonos1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\sonos1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\sonos2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\sonos2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\sonos3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\sonos3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\sony.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\sony.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\sony2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\sony2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\sony3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\sony3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\sony4.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\sony4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\single\\sony_brand.png",
+      "PackagePath": "staticwebassets\\demo\\img\\single\\sony_brand.png"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\slider\\h1_s1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\slider\\h1_s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\slider\\h1_s2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\slider\\h1_s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\slider\\h1_s3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\slider\\h1_s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\slider\\h2_s1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\slider\\h2_s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\slider\\h2_s2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\slider\\h2_s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\slider\\h2_s3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\slider\\h2_s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\slider\\h3_s1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\slider\\h3_s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\slider\\h3_s2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\slider\\h3_s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\slider\\h3_s3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\slider\\h3_s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\slider\\h5_s1.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\slider\\h5_s1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\slider\\h5_s2.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\slider\\h5_s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\slider\\h5_s3.jpg",
+      "PackagePath": "staticwebassets\\demo\\img\\slider\\h5_s3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\img\\sprites.html",
+      "PackagePath": "staticwebassets\\demo\\img\\sprites.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\js\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\demo\\js\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\demo\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\demo\\js\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\demo\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\demo\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\js\\main.js",
+      "PackagePath": "staticwebassets\\demo\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\demo\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\js\\slick.js",
+      "PackagePath": "staticwebassets\\demo\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\demo\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\js\\threesixty.min.js",
+      "PackagePath": "staticwebassets\\demo\\js\\threesixty.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\manual.html",
+      "PackagePath": "staticwebassets\\demo\\manual.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\myaccount.html",
+      "PackagePath": "staticwebassets\\demo\\myaccount.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\onsale.html",
+      "PackagePath": "staticwebassets\\demo\\onsale.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\outofstock.html",
+      "PackagePath": "staticwebassets\\demo\\outofstock.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\pin_product.html",
+      "PackagePath": "staticwebassets\\demo\\pin_product.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\price-ascending.html",
+      "PackagePath": "staticwebassets\\demo\\price-ascending.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\price-descending.html",
+      "PackagePath": "staticwebassets\\demo\\price-descending.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\product_extended.html",
+      "PackagePath": "staticwebassets\\demo\\product_extended.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\product_right_sidebar.html",
+      "PackagePath": "staticwebassets\\demo\\product_right_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\product_sidebar.html",
+      "PackagePath": "staticwebassets\\demo\\product_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\quickview.html",
+      "PackagePath": "staticwebassets\\demo\\quickview.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-Bd.otf",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-Bd.otf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-BdIt.otf",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-BdIt.otf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-Md.otf",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-Md.otf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-MdIt.otf",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-MdIt.otf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-Roman.otf",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\Helvetica\\HelveticaNeueLTStd-Roman.otf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\Helvetica\\fonts.css",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\Helvetica\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\Helvetica\\helvetica-neue-lt-std-45-light.otf",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\Helvetica\\helvetica-neue-lt-std-45-light.otf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\PlayfairDisplay\\fonts.css",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\PlayfairDisplay\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.eot",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.svg",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.svg.readme",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.svg.readme"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.ttf",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.woff",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\PlayfairDisplay\\fonts\\PlayfairDisplay-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\blanch\\fonts.css",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\blanch\\fonts.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.eot",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.svg",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.svg.readme",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.svg.readme"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.ttf",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.woff",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\blanch\\fonts\\BLANCH_CAPS.woff"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\font-awesome\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\font-awesome\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont3295.eot",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont3295.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont3295.svg",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont3295.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont3295.ttf",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont3295.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont3295.woff",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont3295.woff"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont3295.woff2",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfont3295.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\font-awesome\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons28b5.eot",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons28b5.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons28b5.svg",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons28b5.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons28b5.ttf",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons28b5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons28b5.woff",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\ionicons\\fonts\\ionicons28b5.woff"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\simple-line-icon\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\simple-line-icon\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\demo\\sass\\components\\Vendor\\simple-line-icon\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\shop_full.html",
+      "PackagePath": "staticwebassets\\demo\\shop_full.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\shopgrid_v1.html",
+      "PackagePath": "staticwebassets\\demo\\shopgrid_v1.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\shopgrid_v2.html",
+      "PackagePath": "staticwebassets\\demo\\shopgrid_v2.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\shopleft_sidebar.html",
+      "PackagePath": "staticwebassets\\demo\\shopleft_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\shoplist.html",
+      "PackagePath": "staticwebassets\\demo\\shoplist.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\shopright_sidebar.html",
+      "PackagePath": "staticwebassets\\demo\\shopright_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\simple.html",
+      "PackagePath": "staticwebassets\\demo\\simple.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\title-ascending.html",
+      "PackagePath": "staticwebassets\\demo\\title-ascending.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\title-descending.html",
+      "PackagePath": "staticwebassets\\demo\\title-descending.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\track.html",
+      "PackagePath": "staticwebassets\\demo\\track.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\variable.html",
+      "PackagePath": "staticwebassets\\demo\\variable.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\demo\\wishlist.html",
+      "PackagePath": "staticwebassets\\demo\\wishlist.html"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hamidoffa\\Desktop\\c\\ecom\\ecom\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.ecom.props",
+      "PackagePath": "build\\ecom.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ecom.props",
+      "PackagePath": "buildMultiTargeting\\ecom.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.ecom.props",
+      "PackagePath": "buildTransitive\\ecom.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.ecom.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
